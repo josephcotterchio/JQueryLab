@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    padding-top: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
+    }
+    
+    h1 {
+        background-color: lime;
+        background-position: center;
+        color: white;
+        font-size: 24px;
+        white-space: nowrap;
+        text-align: center;
+        width: 400px;
+    }
+
+    p {
+        font-size: 18px;
+        text-align: justify;
+    }
+    li.x {
+font-size: 14px;
+
+    }
+    
+    .skills {
+    margin-left: 5px;
+    font-size: 18px;
+    }
+    button {
+    background-position: center;
+    margin-right: -10px;;
+    }
+        
